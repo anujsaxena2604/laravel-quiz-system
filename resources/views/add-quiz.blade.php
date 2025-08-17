@@ -72,7 +72,7 @@
     <button type="submit" name="submit" value="add-more"
                 class="w-full bg-blue-500 rounded-xl px-4 py-2 text-white hover:bg-blue-600">Add More</button>
         <button type="submit"   name="submit" value="done"
-                class="w-full bg-green-500 rounded-xl px-4 py-2 text-white hover:bg-blue-600">Add Submit</button>
+                class="w-full bg-green-500 rounded-xl px-4 py-2 text-white hover:bg-blue-600">Add and Submit</button>
 </form>            
 @endif
 </div>
